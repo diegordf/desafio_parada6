@@ -1,0 +1,21 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+nav a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    padding: 0px 50px;
+}
